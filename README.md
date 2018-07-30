@@ -25,6 +25,8 @@ So if you're looking for anime that started at the beginning of the year then th
 
 
 # TODO
-As it stands the list also has ONA, OVA and all other junk in it. In the *very soon* future I will be adding prefixes to each anime identifying what type it is. Please look forward to it!
+~~As it stands the list also has ONA, OVA and all other junk in it. In the *very soon* future I will be adding prefixes to each anime identifying what type it is. Please look forward to it! 
+
+I did it.
 
 (Also code clean up, but who cares about that amirite)
