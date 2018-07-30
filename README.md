@@ -3,7 +3,7 @@
 
 
 ## Introducing, R.A.P
-The Ladies/Gentlemen over at http://www.myanimelist.org have kept up a lovely database of anime. However, they don't have a recently completed section for you to glaze over and find something to watch. That's where R.A.P comes in.
+The Ladies/Gentlemen over at http://www.myanimelist.net have kept up a lovely database of anime. However, they don't have a recently completed section for you to glaze over and find something to watch. That's where R.A.P comes in.
 
 
 ## What is R.A.P?
