@@ -13,6 +13,8 @@ R.A.P goes through MAL and rips each page from their seasons list. We start with
 ## The lists.
 Each list is organized into a rating starting at 9+ and going down to 1. Each rating section is sorted by the most recently completed anime. The top anime being completed most recently.
 
+Anime entries will never be duplicated. However, because some anime span across many seasons, they will be put into the season they started in. For instance,  if you have an anime that started in jan but finished in july, it will be placed in the winter list (Winter is the start of the year). It will *not* be available in the summer list.
+
 
 ### Important Note!
 In MAL, Winter is both the start and the end of the year. The anime year is broken up like so.
