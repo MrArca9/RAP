@@ -4,28 +4,25 @@ Anime is ordered in rating, followed by most recently completed in that rating.
 9+:
 
 8:
-Violet Evergarden Special
 
 7:
-Nekopara: Koneko no Hi no Yakusoku
-Masamune-kun no Revenge OVA
-Kishibe Rohan wa Ugokanai
-Karakai Jouzu no Takagi-san OVA
-FLCL Progressive
-K: Seven Stories Movie 1 - R:B - Blaze
-Kekkai Sensen &amp; Beyond OVA
+(ONA) Nekopara: Koneko no Hi no Yakusoku
+(OVA) Masamune-kun no Revenge OVA
+(OVA) Kishibe Rohan wa Ugokanai
+(OVA) Karakai Jouzu no Takagi-san OVA
+(TV) FLCL Progressive
+(Movie) K: Seven Stories Movie 1 - R:B - Blaze
+(OVA) Kekkai Sensen &amp; Beyond OVA
 
 6:
-Fate/Extra: Last Encore - Irusterias Tendouron
-K: Seven Stories - The Idol K
-Dies Irae: To the Ring Reincarnation
+(Movie) K: Seven Stories - The Idol K
+(ONA) Dies Irae: To the Ring Reincarnation
 
 5:
-Aru Zombie Shoujo no Sainan (ONA)
-One Room 2nd Season: Hanasaka Yui no Prologue
+(ONA) Aru Zombie Shoujo no Sainan (ONA)
 
 4:
-Oshie to Tabi Suru Otoko
+(Movie) Oshie to Tabi Suru Otoko
 
 3:
 
