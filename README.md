@@ -25,6 +25,10 @@ In MAL, Winter is both the start and the end of the year. The anime year is brok
   Winter
 So if you're looking for anime that started at the beginning of the year then the winter list anime near the end of the ratings will be what you're looking for.
 
+## O.R.A? Is that a Motherfucking JoJo reference? 
+
+### What the hell is O.R.A?
+First off, yes, yes it is. Secondly : Only Recent Anime, acronym O.R.A, is a c# application created by yours truely that uses R.A.P to fuel it. O.R.A is avaiable for download [here](https://drive.google.com/file/d/1RQJdtEDF2OdPYPpNOLXq2om-Cg2ljHiA/view?usp=sharing). 
 
 # TODO
 ~~As it stands the list also has ONA, OVA and all other junk in it. In the *very soon* future I will be adding prefixes to each anime identifying what type it is. Please look forward to it!~~
