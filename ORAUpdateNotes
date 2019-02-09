@@ -1,3 +1,2 @@
-[#43b581]Search's IQ got an upgrade!
-Search now properly clears when switching seasons
-Search will also now, for real, look at names when you ask it too.
+[#43b581Genre filter now cares about your opinion!
+Fixed the genre filter not behaving correctly.
