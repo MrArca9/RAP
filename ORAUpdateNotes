@@ -1,2 +1,5 @@
 [#43b581]Genre filter now cares about your opinion!
-Fixed the genre filter not behaving correctly.
+Fixed the genre filter not behaving correctly. (v1.1.0.1)
+Fixed an issue with not selecting any genres causing the application to not load any shows (v1.1.0.2)
+[#e89400]No one saw that, right?
+Fixed an issue with the page buttons not showing 10 or higher
